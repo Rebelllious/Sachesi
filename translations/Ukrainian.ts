@@ -38,7 +38,7 @@
     <message>
         <location filename="../qml/generic/Backup.qml" line="76"/>
         <source>Loading backup sizes can sometimes fail. In this situation, you can backup &apos;blind&apos;.</source>
-        <translation>Визначення розміру резервної копії іноді закіфнчується помилкою, Ви можете зробити копію &quot;наосліп&quot;.</translation>
+        <translation>Визначення розміру резервної копії іноді закінчується помилкою, Ви можете зробити копію &quot;наосліп&quot;.</translation>
     </message>
     <message>
         <location filename="../qml/generic/Backup.qml" line="105"/>
@@ -69,7 +69,7 @@
         <location filename="../qml/generic/Backup.qml" line="90"/>
         <location filename="../qml/generic/Backup.qml" line="101"/>
         <source>Blackberry Backup (*.bbb)</source>
-        <translation>Файли резервніх копій Blackberry (*.bbb)</translation>
+        <translation>Файли резервних копій Blackberry (*.bbb)</translation>
     </message>
     <message>
         <location filename="../qml/generic/Backup.qml" line="117"/>
@@ -291,7 +291,7 @@
         <location filename="../qml/generic/Device.qml" line="160"/>
         <location filename="../qml/generic/Device.qml" line="163"/>
         <source>Never</source>
-        <translation>Николи</translation>
+        <translation>Ніколи</translation>
     </message>
     <message>
         <location filename="../qml/generic/Device.qml" line="165"/>
@@ -379,7 +379,7 @@
     <message>
         <location filename="../qml/generic/Extract.qml" line="78"/>
         <source>Signed Images</source>
-        <translation>Підписані  образи</translation>
+        <translation>Підписані образи</translation>
     </message>
     <message>
         <location filename="../qml/generic/Extract.qml" line="81"/>
@@ -523,7 +523,7 @@
         <location filename="../qml/generic/Installer.qml" line="99"/>
         <location filename="../qml/generic/Installer.qml" line="113"/>
         <source>Error: Your device can only process one task at a time. Please wait for backup/restore process to complete.&lt;br&gt;</source>
-        <translation>Ошибка: Пристрій може обробляти лише одну задачу за один раз. Будь ласка, дочекайтеся завершення операції резервного копіювання/відновлення.&lt;br&gt;</translation>
+        <translation>Помилка: Пристрій може обробляти лише одну задачу за один раз. Будь ласка, дочекайтеся завершення операції резервного копіювання/відновлення.&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../qml/generic/Installer.qml" line="101"/>
@@ -548,7 +548,7 @@
     <message>
         <location filename="../qml/generic/Installer.qml" line="57"/>
         <source>Sending %1</source>
-        <translation>відправка %1</translation>
+        <translation>Відправка %1</translation>
     </message>
     <message>
         <location filename="../qml/generic/Installer.qml" line="57"/>
@@ -748,7 +748,7 @@
     <message>
         <location filename="../qml/generic/Search.qml" line="257"/>
         <source>Any</source>
-        <translation>Любая</translation>
+        <translation>Будь-яка</translation>
     </message>
     <message>
         <location filename="../qml/generic/Search.qml" line="273"/>
@@ -804,7 +804,7 @@
     <message>
         <location filename="../qml/generic/Search.qml" line="384"/>
         <source>1700.0 MB</source>
-        <translation>1700.0 МБ</translation>
+        <translation>1700,0 МБ</translation>
     </message>
     <message>
         <location filename="../qml/generic/Search.qml" line="408"/>
@@ -890,7 +890,7 @@
     <message>
         <location filename="../qml/generic/USBConnect.qml" line="83"/>
         <source>Detected %1 Blackberry USB device(s) in %2 mode.</source>
-        <translation>Виявлено %1 пристрій(-оїв) Blackberry USB в режиме %2.</translation>
+        <translation>Виявлено %1 пристрій(-оїв) Blackberry USB в режимі %2.</translation>
     </message>
     <message>
         <location filename="../qml/generic/USBConnect.qml" line="87"/>
@@ -900,7 +900,7 @@
     <message>
         <location filename="../qml/generic/USBConnect.qml" line="56"/>
         <source>There was an issue connecting.</source>
-        <translation>Виникли проблеми з підключенням</translation>
+        <translation>Виникли проблеми з підключенням.</translation>
     </message>
     <message>
         <location filename="../qml/generic/USBConnect.qml" line="59"/>
